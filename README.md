@@ -1,9 +1,9 @@
 # Nikita The Wyvern's Profile
 ## About Me
-Hi, I'm Nikita the Wyvern! I'm an aspiring game developer and designer currently enrolled in stage-2 of my Computer Science degree.
+Hi, I'm Nikita the Wyvern! I'm an aspiring game developer and designer currently in the process of graduating in my Computer Science degree.
 
 ## Languages
-I am most experienced with C# and Java. I am currently in the process of learning C++ in complementation to Unreal Engine 4. I also have limited experience with PHP, SQL, x86Assembly, JavaScript and C.
+I am most experienced with C++ particularly in context of Unreal Engine 5 and 4 and to some extent with OpenGL. For this reason, I also have experience with GLSL. I also have significant experience with C# and Java. I also have limited experience with PHP, SQL, x86Assembly, JavaScript and C.
 
 ## Repositories
 All of my repositories are currently private. You may request exclusive access if you have my contact details.
